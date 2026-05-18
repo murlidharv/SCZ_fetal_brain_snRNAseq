@@ -47,3 +47,28 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+# Large sequencing files
+*.fastq
+*.fastq.gz
+*.bam
+*.bai
+
+# Seurat / R objects
+*.rds
+*.RData
+*.rda
+
+# Matrix files
+*.mtx
+*.h5
+
+# Cell Ranger outputs
+outs/
+cellranger_output/
+
+# Slurm logs
+*.out
+*.err
+
+# macOS
+.DS_Store
