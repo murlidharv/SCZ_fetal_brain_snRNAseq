@@ -1,0 +1,192 @@
+# FASTQ Summary (R1/R2 counts + filenames per folder)
+# Base directory: /rds/projects/c/colemdjl-exphaem/MSc_DL_Murali/rawdata
+# Generated on: Mon Oct 13 07:58:24 BST 2025
+
+Folder            R1_Files   R2_Files      Total
+--------------   ---------  --------- ----------
+510_Cer                  4          4          8
+
+## 510_Cer
+R1 files (4):
+  - 510_Cer_B2_RNA_S1_L001_R1_001.fastq.gz
+  - 510_Cer_B2_RNA_S1_L002_R1_001.fastq.gz
+  - 510_Cer_B2_RNA_S1_L003_R1_001.fastq.gz
+  - 510_Cer_B2_RNA_S1_L004_R1_001.fastq.gz
+
+R2 files (4):
+  - 510_Cer_B2_RNA_S1_L001_R2_001.fastq.gz
+  - 510_Cer_B2_RNA_S1_L002_R2_001.fastq.gz
+  - 510_Cer_B2_RNA_S1_L003_R2_001.fastq.gz
+  - 510_Cer_B2_RNA_S1_L004_R2_001.fastq.gz
+510_FC                   1          1          2
+
+## 510_FC
+R1 files (1):
+  - 510_FC_B1_RNA_S1_L001_R1_001.fastq.gz
+
+R2 files (1):
+  - 510_FC_B1_RNA_S1_L001_R2_001.fastq.gz
+510_GE                   0          0          0
+
+## 510_GE
+R1 files (0):
+  (none)
+
+R2 files (0):
+  (none)
+510_Hipp                 0          0          0
+
+## 510_Hipp
+R1 files (0):
+  (none)
+
+R2 files (0):
+  (none)
+510_Thal                 3          5          8
+
+## 510_Thal
+R1 files (3):
+  - 510_Thal_B2_RNA_S9_L001_R1_001.fastq.gz
+  - 510_Thal_B2_RNA_S9_L003_R1_001.fastq.gz
+  - 510_Thal_B2_RNA_S9_L004_R1_001.fastq.gz
+
+R2 files (5):
+  - 510_Thal_B1_RNA_S11_L004_R2_001.fastq.gz
+  - 510_Thal_B2_RNA_S9_L001_R2_001.fastq.gz
+  - 510_Thal_B2_RNA_S9_L002_R2_001.fastq.gz
+  - 510_Thal_B2_RNA_S9_L003_R2_001.fastq.gz
+  - 510_Thal_B2_RNA_S9_L004_R2_001.fastq.gz
+611_Cer                  4          4          8
+
+## 611_Cer
+R1 files (4):
+  - 611_Cer_B2_RNA_S10_L001_R1_001.fastq.gz
+  - 611_Cer_B2_RNA_S10_L002_R1_001.fastq.gz
+  - 611_Cer_B2_RNA_S10_L003_R1_001.fastq.gz
+  - 611_Cer_B2_RNA_S10_L004_R1_001.fastq.gz
+
+R2 files (4):
+  - 611_Cer_B2_RNA_S10_L001_R2_001.fastq.gz
+  - 611_Cer_B2_RNA_S10_L002_R2_001.fastq.gz
+  - 611_Cer_B2_RNA_S10_L003_R2_001.fastq.gz
+  - 611_Cer_B2_RNA_S10_L004_R2_001.fastq.gz
+611_FC                   4          4          8
+
+## 611_FC
+R1 files (4):
+  - 611_FC_B1_RNA_S2_L001_R1_001.fastq.gz
+  - 611_FC_B1_RNA_S2_L002_R1_001.fastq.gz
+  - 611_FC_B1_RNA_S2_L003_R1_001.fastq.gz
+  - 611_FC_B1_RNA_S2_L004_R1_001.fastq.gz
+
+R2 files (4):
+  - 611_FC_B1_RNA_S2_L001_R2_001.fastq.gz
+  - 611_FC_B1_RNA_S2_L002_R2_001.fastq.gz
+  - 611_FC_B1_RNA_S2_L003_R2_001.fastq.gz
+  - 611_FC_B1_RNA_S2_L004_R2_001.fastq.gz
+611_GE                   3          2          5
+
+## 611_GE
+R1 files (3):
+  - 611_GE_B1_RNA_S4_L001_R1_001.fastq.gz
+  - 611_GE_B1_RNA_S4_L002_R1_001.fastq.gz
+  - 611_GE_B1_RNA_S4_L003_R1_001.fastq.gz
+
+R2 files (2):
+  - 611_GE_B1_RNA_S4_L001_R2_001.fastq.gz
+  - 611_GE_B1_RNA_S4_L002_R2_001.fastq.gz
+611_Hipp                 0          1          1
+
+## 611_Hipp
+R1 files (0):
+  (none)
+
+R2 files (1):
+  - 611_Hipp_B2_RNA_S7_L004_R2_001.fastq.gz
+611_Thal                 4          4          8
+
+## 611_Thal
+R1 files (4):
+  - 611_Thal_B2_RNA_S2_L001_R1_001.fastq.gz
+  - 611_Thal_B2_RNA_S2_L002_R1_001.fastq.gz
+  - 611_Thal_B2_RNA_S2_L003_R1_001.fastq.gz
+  - 611_Thal_B2_RNA_S2_L004_R1_001.fastq.gz
+
+R2 files (4):
+  - 611_Thal_B2_RNA_S2_L001_R2_001.fastq.gz
+  - 611_Thal_B2_RNA_S2_L002_R2_001.fastq.gz
+  - 611_Thal_B2_RNA_S2_L003_R2_001.fastq.gz
+  - 611_Thal_B2_RNA_S2_L004_R2_001.fastq.gz
+993_Cer                  8          8         16
+
+## 993_Cer
+R1 files (8):
+  - 993_Cer_B1_RNA_S6_L001_R1_001.fastq.gz
+  - 993_Cer_B1_RNA_S6_L002_R1_001.fastq.gz
+  - 993_Cer_B1_RNA_S6_L003_R1_001.fastq.gz
+  - 993_Cer_B1_RNA_S6_L004_R1_001.fastq.gz
+  - 993_Cer_B2_RNA_S11_L001_R1_001.fastq.gz
+  - 993_Cer_B2_RNA_S11_L002_R1_001.fastq.gz
+  - 993_Cer_B2_RNA_S11_L003_R1_001.fastq.gz
+  - 993_Cer_B2_RNA_S11_L004_R1_001.fastq.gz
+
+R2 files (8):
+  - 993_Cer_B1_RNA_S6_L001_R2_001.fastq.gz
+  - 993_Cer_B1_RNA_S6_L002_R2_001.fastq.gz
+  - 993_Cer_B1_RNA_S6_L003_R2_001.fastq.gz
+  - 993_Cer_B1_RNA_S6_L004_R2_001.fastq.gz
+  - 993_Cer_B2_RNA_S11_L001_R2_001.fastq.gz
+  - 993_Cer_B2_RNA_S11_L002_R2_001.fastq.gz
+  - 993_Cer_B2_RNA_S11_L003_R2_001.fastq.gz
+  - 993_Cer_B2_RNA_S11_L004_R2_001.fastq.gz
+993_FC                   4          4          8
+
+## 993_FC
+R1 files (4):
+  - 993_FC_B2_RNA_S8_L001_R1_001.fastq.gz
+  - 993_FC_B2_RNA_S8_L002_R1_001.fastq.gz
+  - 993_FC_B2_RNA_S8_L003_R1_001.fastq.gz
+  - 993_FC_B2_RNA_S8_L004_R1_001.fastq.gz
+
+R2 files (4):
+  - 993_FC_B2_RNA_S8_L001_R2_001.fastq.gz
+  - 993_FC_B2_RNA_S8_L002_R2_001.fastq.gz
+  - 993_FC_B2_RNA_S8_L003_R2_001.fastq.gz
+  - 993_FC_B2_RNA_S8_L004_R2_001.fastq.gz
+993_GE                   4          4          8
+
+## 993_GE
+R1 files (4):
+  - 993_GE_B2_RNA_S4_L001_R1_001.fastq.gz
+  - 993_GE_B2_RNA_S4_L002_R1_001.fastq.gz
+  - 993_GE_B2_RNA_S4_L003_R1_001.fastq.gz
+  - 993_GE_B2_RNA_S4_L004_R1_001.fastq.gz
+
+R2 files (4):
+  - 993_GE_B2_RNA_S4_L001_R2_001.fastq.gz
+  - 993_GE_B2_RNA_S4_L002_R2_001.fastq.gz
+  - 993_GE_B2_RNA_S4_L003_R2_001.fastq.gz
+  - 993_GE_B2_RNA_S4_L004_R2_001.fastq.gz
+993_Hipp                 4          4          8
+
+## 993_Hipp
+R1 files (4):
+  - 993_Hipp_B2_RNA_S5_L001_R1_001.fastq.gz
+  - 993_Hipp_B2_RNA_S5_L002_R1_001.fastq.gz
+  - 993_Hipp_B2_RNA_S5_L003_R1_001.fastq.gz
+  - 993_Hipp_B2_RNA_S5_L004_R1_001.fastq.gz
+
+R2 files (4):
+  - 993_Hipp_B2_RNA_S5_L001_R2_001.fastq.gz
+  - 993_Hipp_B2_RNA_S5_L002_R2_001.fastq.gz
+  - 993_Hipp_B2_RNA_S5_L003_R2_001.fastq.gz
+  - 993_Hipp_B2_RNA_S5_L004_R2_001.fastq.gz
+993_Thal                 2          1          3
+
+## 993_Thal
+R1 files (2):
+  - 993_Thal_B2_RNA_S3_L001_R1_001.fastq.gz
+  - 993_Thal_B2_RNA_S3_L002_R1_001.fastq.gz
+
+R2 files (1):
+  - 993_Thal_B2_RNA_S3_L002_R2_001.fastq.gz
